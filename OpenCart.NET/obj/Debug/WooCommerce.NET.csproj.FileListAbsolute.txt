@@ -1,0 +1,9 @@
+D:\Projects\GoodSide\Docs\Woocommerce\WooCommerceTest\WooCommerce.NET\bin\Debug\WooCommerceNET.dll
+D:\Projects\GoodSide\Docs\Woocommerce\WooCommerceTest\WooCommerce.NET\bin\Debug\WooCommerceNET.pdb
+D:\Projects\GoodSide\Docs\Woocommerce\WooCommerceTest\WooCommerce.NET\obj\Debug\WooCommerceNET.dll
+D:\Projects\GoodSide\Docs\Woocommerce\WooCommerceTest\WooCommerce.NET\obj\Debug\WooCommerceNET.pdb
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\bin\Debug\OpenCartNET.dll
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\bin\Debug\OpenCartNET.pdb
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\OpenCartNET.dll
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\OpenCartNET.pdb
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\WooCommerce.NET.csprojResolveAssemblyReference.cache

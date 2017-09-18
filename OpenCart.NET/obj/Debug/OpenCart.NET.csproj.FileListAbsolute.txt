@@ -1,0 +1,5 @@
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\bin\Debug\OpenCartNET.dll
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\bin\Debug\OpenCartNET.pdb
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\OpenCartNET.dll
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\OpenCartNET.pdb
+D:\Projects\GoodSide\Docs\OpenCart\OpenCartTest\OpenCart.NET\obj\Debug\OpenCart.NET.csprojResolveAssemblyReference.cache
